@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Undergraduate student majoring Physics and Electrical & Computer Engineering at Seoul National University"
   location         : "Seoul, South Korea"
-  email            : jhl1862@gmail.com
+  email            : #jhl1862@gmail.com
   links:
     - label: "Email1"
       icon: "fas fa-fw fa-envelope-square"
