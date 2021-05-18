@@ -20,7 +20,7 @@ title                    : "Joohyun Lee's Reasearch Webpage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joohyun Lee"
-description              : "An Astrophysics Student at Seoul National Univ."
+description              : ""
 url                      : "joohyun-lee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -274,7 +274,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
@@ -282,3 +282,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_data: true
