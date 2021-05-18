@@ -93,29 +93,32 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Joohyun Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Undergraduate student majoring Physics and Electrical & Computer Engineering at Seoul National University"
+  location         : "Seoul, South Korea"
+  email            : jhl1862@gmail.com
   links:
-    - label: "Email"
+    - label: "Email1"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jhl1862@gmail.com"
+    - label: "Email2"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jhl1862@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    #- label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/Joohyun-Lee"
+    #- label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
