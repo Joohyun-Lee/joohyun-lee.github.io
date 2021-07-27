@@ -1,5 +1,5 @@
 ---
-title:""
+title:" "
 permalink: /research/DMDG/
 layout: single
 classes: wide
