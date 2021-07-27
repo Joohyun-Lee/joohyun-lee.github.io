@@ -10,7 +10,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
   - title: "Posts"
