@@ -1,6 +1,5 @@
 ---
 title: "Research Webpage of Joohyun Lee"
-permalink: /
 layout: single
 ---
 
