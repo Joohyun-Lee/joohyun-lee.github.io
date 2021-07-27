@@ -2,6 +2,7 @@
 title: "Joohyun Lee"
 permalink: /about/
 layout: single
+classes: wide
 ---
 
 <br/>
