@@ -1,11 +1,13 @@
 ---
-title: "Formation of Dark Matter Deficient Galaxies and Their Member Star Clusters during High-velocity Galaxy Collisions"
+subtitle: "You're going to love this."
 permalink: /research/DMDG/
 layout: single
 classes: wide
 ---
 
 <br/>
+title: "Formation of Dark Matter Deficient Galaxies and Their Member Star Clusters during High-velocity Galaxy Collisions"
+
 Contents
 <br/>
 
