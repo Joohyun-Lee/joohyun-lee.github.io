@@ -5,7 +5,6 @@ layout: single
 classes: wide
 ---
 
-<br/>
 ## Formation of Dark Matter Deficient Galaxies during High-velocity Galaxy Collisions
 
 Contents
