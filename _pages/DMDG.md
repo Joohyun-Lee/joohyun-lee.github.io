@@ -9,6 +9,5 @@ Contents
 
 ##### Movie
 <br/>
-Fiducial run ([movie](https://drive.google.com/file/d/1lIaP78Pqw251gmQ2sZNDRlSQrNKF49Q-/view?usp=sharing))
-
-FB3 run ([movie](https://drive.google.com/file/d/1lIaP78Pqw251gmQ2sZNDRlSQrNKF49Q-/view?usp=sharing))
+1. Fiducial run ([movie](https://drive.google.com/file/d/1lIaP78Pqw251gmQ2sZNDRlSQrNKF49Q-/view?usp=sharing))
+2. FB3 run ([movie](https://drive.google.com/file/d/1lIaP78Pqw251gmQ2sZNDRlSQrNKF49Q-/view?usp=sharing))
