@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Joohyun Lee"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Computational Astophysics" # site tagline that appears below site title in masthead
 name                     : "Joohyun Lee"
-description              : "Computational Astophysics"
+description              : 
 url                      : "https://joohyun-lee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Joohyun-Lee/joohyun-lee.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
