@@ -5,7 +5,7 @@ layout: single
 classes: wide
 ---
 
-### Dark Matter Deficient Galaxies And Their Member Star Clusters Form Simultaneously During High-velocity Galaxy Collisions
+### Dark Matter Deficient Galaxies And Their Member Star Clusters Form Simultaneously
 <br/>
 Contents
 <br/>
