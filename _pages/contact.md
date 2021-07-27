@@ -4,8 +4,7 @@ layout: single
 ---
 
 
-Please feel free to reach out to me!
-<br/><br/>
+###Please feel free to reach out to me!
 
 jhl1862@gmail.com
 
