@@ -5,7 +5,7 @@ layout: single
 ---
 
 
-# Dark Matter Deficient Galaxies Formation during High-velocity Galaxy Collisions
+## Dark Matter Deficient Galaxies Formation during High-velocity Galaxy Collisions
 
 Contents
 <br/>
