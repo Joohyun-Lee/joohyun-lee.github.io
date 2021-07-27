@@ -1,5 +1,5 @@
 ---
-title: "Research Webpage of Joohyun Lee"
+title: "Contact"
 permalink: /contact/
 layout: single
 ---
