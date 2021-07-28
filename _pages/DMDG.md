@@ -11,7 +11,7 @@ It has been a mystery how the diffuse dwarf galaxies that are deficient in dark 
 In particular, we show that a galaxy collision with a high relative velocity of ~ 300 km/s, invoking severe shock compression, spawns multiple massive SCs (<img src="https://render.githubusercontent.com/render/math?math=\gtrsim 10^{6}\,{\rm M}_{\odot}">) within 150 Myr after the collision. At the end of our ~ 800 Myr fiducial run, the resulting DMDG of <img src="https://render.githubusercontent.com/render/math?math=M_{\star} \simeq 3.5 \times 10^{8}\,{\rm M}_{\odot}"> hosts 10 luminous (<img src="https://render.githubusercontent.com/render/math?math=M_{V} \lesssim -8.5\,{\rm {mag}}">), gravitational bound SCs with a line-of-sight velocity dispersion 11.2 km/s. Our study suggests that DMDGs and their luminous member SCs could form simultaneously in high-velocity galaxy collisions while being in line with the key observed properties of NGC1052-DF2 and NGC1052-DF4.
 <br/>
 
-##### Movie
+###### Movie
 <br/>
 1. Fiducial run ([movie](https://drive.google.com/file/d/1lIaP78Pqw251gmQ2sZNDRlSQrNKF49Q-/view?usp=sharing))
 2. FB3 run ([movie](https://drive.google.com/file/d/1lIaP78Pqw251gmQ2sZNDRlSQrNKF49Q-/view?usp=sharing))
