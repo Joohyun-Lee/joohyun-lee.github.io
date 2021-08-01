@@ -13,5 +13,5 @@ In particular, we show that a galaxy collision with a high relative velocity of 
 
 ###### Movie
 
-1. Fiducial run (<a href="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view?usp=sharing" style="text-decoration:none" target="_blank">(movie)</a>)
-2. FB3 run (<a href="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view?usp=sharing" style="text-decoration:none" target="_blank">(movie)</a>)
+1. Fiducial run (<a href="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view?usp=sharing" style="text-decoration:none" target="_blank">movie</a>)
+2. FB3 run (<a href="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view?usp=sharing" style="text-decoration:none" target="_blank">movie</a>)
