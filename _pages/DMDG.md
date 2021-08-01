@@ -13,6 +13,11 @@ In particular, we show that a galaxy collision with a high relative velocity of 
 We present galaxy collision simulations with different configurations can result in DMDGs with comparable stellar mass of <img src="https://render.githubusercontent.com/render/math?math=M_{\star} \sim 10^{8}\,{\rm M}_{\odot}">. For details of each run, please refer to Table 1 and Section 2 in our paper (Arxiv link). Movies listed here show the way baryons seperate from dark matter and rapid star formation during galaxy collsion. We find that the physical properties of the produced DMDGs depend on the amount of gas participates in the supersonic collision, the strength of stellar feedback, initial gas metallicity, and the velocity shear in the colliding gas.
 <br/>
 
+
+<iframe width="772" height="217" src="https://youtu.be/Lo5Riw-mJZM" frameborder="0" allowfullscreen></iframe>
+</iframe>
+
+
 ###### Movie of runs with different configurations (Table 1 and Figure 1 in the paper)
 
 1. <a href="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view?usp=sharing" style="text-decoration:none" target="_blank">Fiducial run</a>
