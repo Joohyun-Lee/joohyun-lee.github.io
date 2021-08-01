@@ -14,7 +14,7 @@ We present galaxy collision simulations with different configurations can result
 <br/>
 
 
-<iframe width="772" height="217" src="https://youtu.be/Lo5Riw-mJZM" frameborder="0" allowfullscreen></iframe>
+<iframe width="772" height="217" src="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
 
 
 ###### Movie of runs with different configurations (Table 1 and Figure 1 in the paper)
