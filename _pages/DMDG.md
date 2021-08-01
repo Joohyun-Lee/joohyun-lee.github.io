@@ -21,8 +21,8 @@ In particular, we show that a galaxy collision with a high relative velocity of 
 6. <a href="https://drive.google.com/file/d/1Z-rcbSQCV2hkviOkvncZctkO7Py1v_GP/view?usp=sharing" style="text-decoration:none" target="_blank">Retrograde run</a>
 7. <a href="https://drive.google.com/file/d/1yKtKYxGLr0XoBgN_-2n09bdlU0w65FiT/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-1 run</a>
 8. <a href="https://drive.google.com/file/d/1ZKI9XirZBHbmI6DX0xCA5Y_rUIs-I3bv/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-1-FB10 run</a>
-9. <a href="https://drive.google.com/file/d/1Eh0FCaLcmQZZIsauePBHgY4ZEEPBJr4M/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-2 run</a>)
-10. <a href="https://drive.google.com/file/d/1jt1MyiMhiY-dBJG5iM7ha1XcVFmf6UwV/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-2-FB10 run</a>)
+9. <a href="https://drive.google.com/file/d/1Eh0FCaLcmQZZIsauePBHgY4ZEEPBJr4M/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-2 run</a>
+10. <a href="https://drive.google.com/file/d/1jt1MyiMhiY-dBJG5iM7ha1XcVFmf6UwV/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-2-FB10 run</a>
 
 
 ###### Zoomed-in movie (Figure 3 in the paper)
