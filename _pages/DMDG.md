@@ -11,15 +11,20 @@ It has been a mystery how the diffuse dwarf galaxies that are deficient in dark 
 In particular, we show that a galaxy collision with a high relative velocity of ~ 300 km/s, invoking severe shock compression, spawns multiple massive SCs (<img src="https://render.githubusercontent.com/render/math?math=\gtrsim 10^{6}\,{\rm M}_{\odot}">) within 150 Myr after the collision. At the end of our ~ 800 Myr fiducial run, the resulting DMDG of <img src="https://render.githubusercontent.com/render/math?math=M_{\star} \simeq 3.5 \times 10^{8}\,{\rm M}_{\odot}"> hosts 10 luminous (<img src="https://render.githubusercontent.com/render/math?math=M_{V} \lesssim -8.5\,{\rm {mag}}">), gravitational bound SCs with a line-of-sight velocity dispersion 11.2 km/s. Our study suggests that DMDGs and their luminous member SCs could form simultaneously in high-velocity galaxy collisions while being in line with the key observed properties of NGC1052-DF2 and NGC1052-DF4.
 <br/>
 
-###### Movie
+###### Movie from runs with different configurations (Table 1 and Figure 1 in the paper)
 
-1. Fiducial run (<a href="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view?usp=sharing" style="text-decoration:none" target="_blank">movie</a>)
-2. FB3 run (<a href="https://drive.google.com/file/d/1v7EfqkqTrQzjAHPJCdHTVj8tP4PrORT8/view?usp=sharing" style="text-decoration:none" target="_blank">movie</a>)
-3. FB7 run (<a href="https://drive.google.com/file/d/1X2r5908GyZhPBmhYGcWv0Zo94RIs0v63/view?usp=sharing" style="text-decoration:none" target="_blank">movie</a>)
-4. FB10 run (<a href="https://drive.google.com/file/d/1UwB6HX2srJZ6IqT51I7jAJq2Ddf7jeVU/view?usp=sharing" style="text-decoration:none" target="_blank">movie</a>)
-5. Low-metal run (<a href="https://drive.google.com/file/d/1tFhHuYyXP4lLGudp6PVJdwPS86vHSkmp/view?usp=sharing" style="text-decoration:none" target="_blank">movie</a>)
-6. Retrograde run (<a href="https://drive.google.com/file/d/1Z-rcbSQCV2hkviOkvncZctkO7Py1v_GP/view?usp=sharing" style="text-decoration:none" target="_blank">movie</a>)
-7. Tilt-1 run (<a href="https://drive.google.com/file/d/1yKtKYxGLr0XoBgN_-2n09bdlU0w65FiT/view?usp=sharing" style="text-decoration:none" target="_blank">movie</a>)
-8. Tilt-1-FB10 run (<a href="https://drive.google.com/file/d/1ZKI9XirZBHbmI6DX0xCA5Y_rUIs-I3bv/view?usp=sharing" style="text-decoration:none" target="_blank">movie</a>)
-9. Tilt-2 run (<a href="https://drive.google.com/file/d/1Eh0FCaLcmQZZIsauePBHgY4ZEEPBJr4M/view?usp=sharing" style="text-decoration:none" target="_blank">movie</a>)
-10. Tilt-2-FB10 run (<a href="https://drive.google.com/file/d/1jt1MyiMhiY-dBJG5iM7ha1XcVFmf6UwV/view?usp=sharing" style="text-decoration:none" target="_blank">movie</a>)
+1. <a href="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view?usp=sharing" style="text-decoration:none" target="_blank">Fiducial run</a>
+2. <a href="https://drive.google.com/file/d/1v7EfqkqTrQzjAHPJCdHTVj8tP4PrORT8/view?usp=sharing" style="text-decoration:none" target="_blank">FB3 run</a>
+3. <a href="https://drive.google.com/file/d/1X2r5908GyZhPBmhYGcWv0Zo94RIs0v63/view?usp=sharing" style="text-decoration:none" target="_blank">FB7 run</a>
+4. <a href="https://drive.google.com/file/d/1UwB6HX2srJZ6IqT51I7jAJq2Ddf7jeVU/view?usp=sharing" style="text-decoration:none" target="_blank">FB10 run</a>
+5. <a href="https://drive.google.com/file/d/1tFhHuYyXP4lLGudp6PVJdwPS86vHSkmp/view?usp=sharing" style="text-decoration:none" target="_blank">Low-metal run</a>
+6. <a href="https://drive.google.com/file/d/1Z-rcbSQCV2hkviOkvncZctkO7Py1v_GP/view?usp=sharing" style="text-decoration:none" target="_blank">Retrograde run</a>
+7. <a href="https://drive.google.com/file/d/1yKtKYxGLr0XoBgN_-2n09bdlU0w65FiT/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-1 run</a>
+8. <a href="https://drive.google.com/file/d/1ZKI9XirZBHbmI6DX0xCA5Y_rUIs-I3bv/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-1-FB10 run</a>
+9. <a href="https://drive.google.com/file/d/1Eh0FCaLcmQZZIsauePBHgY4ZEEPBJr4M/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-2 run</a>)
+10. <a href="https://drive.google.com/file/d/1jt1MyiMhiY-dBJG5iM7ha1XcVFmf6UwV/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-2-FB10 run</a>)
+
+
+###### Zoomed-in movie (Figure 3 in the paper)
+
+<a href="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view?usp=sharing" style="text-decoration:none" target="_blank">Fiducial run (change)</a>
