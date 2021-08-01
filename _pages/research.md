@@ -22,9 +22,9 @@ matter fractions.
 <br/>
 
 <ul>
-<li>Shin, E. -J., Jung, M., Kwon, G., Kim, J. -H., **Lee, J.**, Jo, Y., & Oh, B. K., <em>“Dark Matter Deficient Galaxies Produced Via High-velocity Galaxy Collisions In High-resolution Numerical Simulations”<\em>, <span style="color:greed">[ApJ 899 (2020) 25][DMDG1st] \[[astro-ph:2007.09889][DMDG1stArxiv]\]</span></li>
+<li>Shin, E. -J., Jung, M., Kwon, G., Kim, J. -H., <b>Lee, J.<\b>, Jo, Y., & Oh, B. K., <em>“Dark Matter Deficient Galaxies Produced Via High-velocity Galaxy Collisions In High-resolution Numerical Simulations”<\em>, <span style="color:greed">[ApJ 899 (2020) 25][DMDG1st] \[[astro-ph:2007.09889][DMDG1stArxiv]\]</span></li>
 
-<li>**Lee, J.**, Shin, E. -J., & Kim, J. -H., <em>“Dark Matter Deficient Galaxies Produced Via High-velocity Galaxy Collisions In High-resolution Numerical Simulations”<\em>, <span style="color:greed">[ApJ Letters in press (2021)]</span>
+<li><b>Lee, J.<\b>, Shin, E. -J., & Kim, J. -H., <em>“Dark Matter Deficient Galaxies Produced Via High-velocity Galaxy Collisions In High-resolution Numerical Simulations”<\em>, <span style="color:greed">[ApJ Letters in press (2021)]</span>
   
 For detailed description and movies, please see [this page][DMDG].</li>
 
