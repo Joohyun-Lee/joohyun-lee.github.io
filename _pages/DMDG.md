@@ -3,7 +3,7 @@ title: "Formation of Dark Matter Deficient Galaxies during High-velocity Galaxy 
 permalink: /research/DMDG/
 layout: single
 classes: wide
-youtubeId: putYourIDHere
+youtubeId: jhl1862@gmail.com
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
