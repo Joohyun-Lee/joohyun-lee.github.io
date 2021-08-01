@@ -3,9 +3,7 @@ title: "Formation of Dark Matter Deficient Galaxies during High-velocity Galaxy 
 permalink: /research/DMDG/
 layout: single
 classes: wide
-youtubeId: jhl1862@gmail.com
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
 
 ### Dark Matter Deficient Galaxies And Their Member Star Clusters Form Simultaneously
 <br/>
@@ -17,7 +15,7 @@ We present galaxy collision simulations with different configurations can result
 
 
 <div class="embed-container">
-<iframe width="772" height="217" src="https://www.youtube.com/embed/watch?v=Lo5Riw-mJZM" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe>
+<iframe width="772" height="217" src="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
