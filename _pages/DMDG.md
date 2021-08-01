@@ -11,7 +11,7 @@ It has been a mystery how the diffuse dwarf galaxies that are deficient in dark 
 In particular, we show that a galaxy collision with a high relative velocity of ~ 300 km/s, invoking severe shock compression, spawns multiple massive SCs (<img src="https://render.githubusercontent.com/render/math?math=\gtrsim 10^{6}\,{\rm M}_{\odot}">) within 150 Myr after the collision. At the end of our ~ 800 Myr fiducial run, the resulting DMDG of <img src="https://render.githubusercontent.com/render/math?math=M_{\star} \simeq 3.5 \times 10^{8}\,{\rm M}_{\odot}"> hosts 10 luminous (<img src="https://render.githubusercontent.com/render/math?math=M_{V} \lesssim -8.5\,{\rm {mag}}">), gravitational bound SCs with a line-of-sight velocity dispersion 11.2 km/s. Our study suggests that DMDGs and their luminous member SCs could form simultaneously in high-velocity galaxy collisions while being in line with the key observed properties of NGC1052-DF2 and NGC1052-DF4.
 <br/>
 
-###### Movie from runs with different configurations (Table 1 and Figure 1 in the paper)
+###### Movie of runs with different configurations (Table 1 and Figure 1 in the paper)
 
 1. <a href="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view?usp=sharing" style="text-decoration:none" target="_blank">Fiducial run</a>
 2. <a href="https://drive.google.com/file/d/1v7EfqkqTrQzjAHPJCdHTVj8tP4PrORT8/view?usp=sharing" style="text-decoration:none" target="_blank">FB3 run</a>
@@ -25,6 +25,6 @@ In particular, we show that a galaxy collision with a high relative velocity of 
 10. <a href="https://drive.google.com/file/d/1jt1MyiMhiY-dBJG5iM7ha1XcVFmf6UwV/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-2-FB10 run</a>
 
 
-###### Zoomed-in movie (Figure 3 in the paper)
+###### Star clsuter zoomed-in movie (Figure 3 in the paper)
 
-<a href="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view?usp=sharing" style="text-decoration:none" target="_blank">Fiducial run (change)</a>
+<a href="https://drive.google.com/file/d/1fTyhlcWirs5mL7m_jcerxBE9eGD7UQ7u/view?usp=sharing" style="text-decoration:none" target="_blank">Fiducial run</a>
