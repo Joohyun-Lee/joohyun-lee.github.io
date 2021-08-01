@@ -21,14 +21,11 @@ scenario. Our results demonstrate one of many routes in which galaxies could for
 matter fractions.
 <br/>
 
-<ul>
-<li>Shin, E. -J., Jung, M., Kwon, G., Kim, J. -H., <b>Lee, J.<\b>, Jo, Y., & Oh, B. K., <em>“Dark Matter Deficient Galaxies Produced Via High-velocity Galaxy Collisions In High-resolution Numerical Simulations”<\em>, <span style="color:green">[ApJ 899 (2020) 25][DMDG1st] \[[astro-ph:2007.09889][DMDG1stArxiv]\]</span>
-</li>
 
-<li><b>Lee, J.<\b>, Shin, E. -J., & Kim, J. -H., <em>“Dark Matter Deficient Galaxies Produced Via High-velocity Galaxy Collisions In High-resolution Numerical Simulations”<\em>, <span style="color:green">[ApJ Letters in press (2021)]</span>
-  
+*Shin, E. -J., Jung, M., Kwon, G., Kim, J. -H., <b>Lee, J.<\b>, Jo, Y., & Oh, B. K., <em>“Dark Matter Deficient Galaxies Produced Via High-velocity Galaxy Collisions In High-resolution Numerical Simulations”<\em>, <span style="color:green">[ApJ 899 (2020) 25][DMDG1st] \[[astro-ph:2007.09889][DMDG1stArxiv]\]</span>
+
+*<b>Lee, J.<\b>, Shin, E. -J., & Kim, J. -H., <em>“Dark Matter Deficient Galaxies Produced Via High-velocity Galaxy Collisions In High-resolution Numerical Simulations”<\em>, <span style="color:green">[ApJ Letters in press (2021)]</span>
 For detailed description and movies, please see [this page][DMDG].
-</li>
 
 [DMDG]: https://joohyun-lee.github.io/research/DMDG/
 [DMDG1st]: https://ui.adsabs.harvard.edu/abs/2020ApJ...899...25S/abstract
