@@ -3,7 +3,9 @@ title: "Formation of Dark Matter Deficient Galaxies during High-velocity Galaxy 
 permalink: /research/DMDG/
 layout: single
 classes: wide
+youtubeId: putYourIDHere
 ---
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ### Dark Matter Deficient Galaxies And Their Member Star Clusters Form Simultaneously
 <br/>
