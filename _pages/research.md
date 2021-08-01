@@ -26,5 +26,5 @@ matter fractions.
 <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...899...25S/abstract" style="text-decoration:none">[ApJ 899 (2020) 25]</a>, <a href="https://arxiv.org/abs/2007.09889" style="text-decoration:none">[astro-ph:2007.09889]</a>, <a href="https://ejshin0.github.io/page/category/research.html" style="text-decoration:none">[Further info at Eun-jin Shin's website]</a>
 
 * **Lee, J.**, Shin, E. -J., & Kim, J. -H., *“Dark Matter Deficient Galaxies Produced Via High-velocity Galaxy Collisions In High-resolution Numerical Simulations”*, <br/>
-<span style="color:blue">[ApJ Letters in press (2021)]</span>, <a href="https://joohyun-lee.github.io/research/DMDG/" style="text-decoration:none">[Further info at this page]</a>
+<span style="color:blue">[ApJ Letters in press (2021)]</span>, <a href="https://joohyun-lee.github.io/research/DMDG/" style="text-decoration:none">[Further info and movies in this page]</a>
 
