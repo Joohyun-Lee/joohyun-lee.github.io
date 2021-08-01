@@ -15,6 +15,7 @@ We present galaxy collision simulations with different configurations can result
 <br/>
 
 Movie of Fiducial run
+
 {% include video id="1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1" provider="google-drive" %}
 
 
