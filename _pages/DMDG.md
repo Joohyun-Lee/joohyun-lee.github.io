@@ -20,7 +20,7 @@ Movie of Fiducial run
 
 
 
-###### Movie of runs with different configurations (Table 1 and Figure 1 in the paper)
+###### Movies of runs with different configurations (Table 1 and Figure 1 in the paper)
 
 1. <a href="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view?usp=sharing" style="text-decoration:none" target="_blank">Fiducial run</a>
 2. <a href="https://drive.google.com/file/d/1v7EfqkqTrQzjAHPJCdHTVj8tP4PrORT8/view?usp=sharing" style="text-decoration:none" target="_blank">FB3 run</a>
