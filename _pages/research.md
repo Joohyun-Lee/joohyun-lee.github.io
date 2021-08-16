@@ -18,4 +18,4 @@ Also, using a large simulated universe <span style="font-variant:small-caps;">Il
 
 * **Lee, J.**, Shin, E. -J., & Kim, J. -H., *“Dark Matter Deficient Galaxies And Their Member Star Clusters Form Simultaneously During High-velocity Galaxy
 Collisions In 1.25 pc Resolution Simulations”*, <br/>
-<span style="color:blue">[ApJ Letters in press (2021)]</span>, <a href="https://arxiv.org/abs/2108.01102" style="text-decoration:none" target="_blank">[astro-ph:2108.01102]</a>, <a href="https://joohyun-lee.github.io/research/DMDG/" style="text-decoration:none" target="_blank">[Further info and movies on this page]</a>
+<a href="https://iopscience.iop.org/article/10.3847/2041-8213/ac16e0" style="text-decoration:none" target="_blank">[ApJL 917 (2021) L15]</a>, <a href="https://arxiv.org/abs/2108.01102" style="text-decoration:none" target="_blank">[astro-ph:2108.01102]</a>, <a href="https://joohyun-lee.github.io/research/DMDG/" style="text-decoration:none" target="_blank">[Further info and movies on this page]</a>
