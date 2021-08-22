@@ -103,16 +103,16 @@ analytics:
 author:
   name             : "Joohyun Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Undergraduate student majoring Physics and Electrical & Computer Engineering at Seoul National University"
-  location         : "Seoul, Korea"
+  bio              : "Graduate student at Department of Astronomy, University of Texas at Austin"
+  location         : "Austin, Texas, US"
   email            :
   links:
     - label: "jhl1862@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jhl1862@gmail.com"
-    - label: "jhl1862@snu.ac.kr"
+    - label: "joohyun.lee@austin.utexas.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jhl1862@snu.ac.kr"
+      url: "joohyun.lee@austin.utexas.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://joohyun-lee.github.io/"
