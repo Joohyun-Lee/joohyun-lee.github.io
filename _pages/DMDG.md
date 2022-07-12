@@ -17,24 +17,24 @@ We present movies of galaxy collision simulations with different configurations 
 
 Movie of Fiducial run
 
-{% include video id="1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1" provider="google-drive" %}
+{% include video id="16KtaogIBwGEdbGMDw96ZuusSFxssjvSy" provider="google-drive" %}
 
 
 
 ###### Movies of simulation runs with different configurations (Table 1 and Figure 1 in the paper)
 
-1. <a href="https://drive.google.com/file/d/1hLBW_FEbRB6MFRxjE1RyllMIYXt_2Wm1/view?usp=sharing" style="text-decoration:none" target="_blank">Fiducial run</a>
-2. <a href="https://drive.google.com/file/d/1v7EfqkqTrQzjAHPJCdHTVj8tP4PrORT8/view?usp=sharing" style="text-decoration:none" target="_blank">FB3 run</a>
-3. <a href="https://drive.google.com/file/d/1X2r5908GyZhPBmhYGcWv0Zo94RIs0v63/view?usp=sharing" style="text-decoration:none" target="_blank">FB7 run</a>
-4. <a href="https://drive.google.com/file/d/1UwB6HX2srJZ6IqT51I7jAJq2Ddf7jeVU/view?usp=sharing" style="text-decoration:none" target="_blank">FB10 run</a>
-5. <a href="https://drive.google.com/file/d/1tFhHuYyXP4lLGudp6PVJdwPS86vHSkmp/view?usp=sharing" style="text-decoration:none" target="_blank">Low-metal run</a>
-6. <a href="https://drive.google.com/file/d/1Z-rcbSQCV2hkviOkvncZctkO7Py1v_GP/view?usp=sharing" style="text-decoration:none" target="_blank">Retrograde run</a>
-7. <a href="https://drive.google.com/file/d/1yKtKYxGLr0XoBgN_-2n09bdlU0w65FiT/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-1 run</a>
-8. <a href="https://drive.google.com/file/d/1ZKI9XirZBHbmI6DX0xCA5Y_rUIs-I3bv/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-1-FB10 run</a>
-9. <a href="https://drive.google.com/file/d/1Eh0FCaLcmQZZIsauePBHgY4ZEEPBJr4M/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-2 run</a>
-10. <a href="https://drive.google.com/file/d/1jt1MyiMhiY-dBJG5iM7ha1XcVFmf6UwV/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-2-FB10 run</a>
+1. <a href="https://drive.google.com/file/d/16KtaogIBwGEdbGMDw96ZuusSFxssjvSy/view?usp=sharing" style="text-decoration:none" target="_blank">Fiducial run</a>
+2. <a href="https://drive.google.com/file/d/1hkxAfTa_L6YNWUsWM7-0oOHUS3P5niBI/view?usp=sharing" style="text-decoration:none" target="_blank">FB3 run</a>
+3. <a href="https://drive.google.com/file/d/1TvSt0LikV0sqEWm5k3o1pbqbW-bXrZPg/view?usp=sharing" style="text-decoration:none" target="_blank">FB7 run</a>
+4. <a href="https://drive.google.com/file/d/1xM09Dt_RZBFPyA_-nwFHWvxdUkon_lMh/view?usp=sharing" style="text-decoration:none" target="_blank">FB10 run</a>
+5. <a href="https://drive.google.com/file/d/1C07fmrH7HRrrUF08mGawjOKF-uqIg95a/view?usp=sharing" style="text-decoration:none" target="_blank">Low-metal run</a>
+6. <a href="https://drive.google.com/file/d/1VpvzmQ5YLDImJW2f8bqUC3U0sPZj2BWs/view?usp=sharing" style="text-decoration:none" target="_blank">Retrograde run</a>
+7. <a href="https://drive.google.com/file/d/1MspAHb7m-k21hLQerELb8ysUBJO16aHM/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-1 run</a>
+8. <a href="https://drive.google.com/file/d/11xHKw1wBNBZPlrU4ImingBW3P2vHjcoM/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-1-FB10 run</a>
+9. <a href="https://drive.google.com/file/d/1A3kPL-y9RZwpBkLy-B6tV2BreIPpUwps/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-2 run</a>
+10. <a href="https://drive.google.com/file/d/1DoF_hZNUwqDJkJvoH3fwA4JJteIOu1Tz/view?usp=sharing" style="text-decoration:none" target="_blank">Tilt-2-FB10 run</a>
 
 
 ###### Star clsuter zoomed-in movie (Figure 3 in the paper)
 
-<a href="https://drive.google.com/file/d/1fTyhlcWirs5mL7m_jcerxBE9eGD7UQ7u/view?usp=sharing" style="text-decoration:none" target="_blank">Fiducial run</a>
+<a href="https://drive.google.com/file/d/1S7kuJySv7QAfC6NdkYzgJvHECuigiesD/view?usp=sharing" style="text-decoration:none" target="_blank">Fiducial run</a>
