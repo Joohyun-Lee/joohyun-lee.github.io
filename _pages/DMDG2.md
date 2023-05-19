@@ -1,6 +1,6 @@
 ---
 title: "Formation of Dark Matter Deficient Galaxies during High-velocity Galaxy Collisions"
-permalink: /research/DMDG/
+permalink: /research/DMDG2/
 layout: single
 classes: wide
 ---
