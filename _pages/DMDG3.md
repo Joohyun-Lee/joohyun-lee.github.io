@@ -16,7 +16,7 @@ We further report on a few findings that could be examined in future observation
 One of the two satellite progenitors is located at the end of the trail of the DMDGs, which suggests a possible current location. 
 Additionally, we demonstrate that the stellar ages and metallicities of the produced DMDGs are nearly identical, and we offer a hint that the tidal field of the host, NGC1052, may contribute to making DMDGs diffuse.
 
-
+<img src="https://render.githubusercontent.com/render/math?math=M_{\star} \geq 10^{8}\,{\rm M}_{\odot}">
 Movie of the Fiducial run
 
 {% include video id="1XPl_xCucCiZI9AAMamGnPytjnPHaZX2T" provider="google-drive" %}
