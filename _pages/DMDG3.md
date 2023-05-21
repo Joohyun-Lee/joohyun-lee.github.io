@@ -6,7 +6,7 @@ classes: wide
 ---
 
 
-This project is funded by the Future Investigators in NASA Earth and Space Science and Technology <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b87947100-56AE-C4DC-C511-0349862D658A%7d&path=open" style="text-decoration:none" target="_blank">(NASA FINESST)</a> program.
+This project is funded by the Future Investigators in NASA Earth and Space Science and Technology <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b87947100-56AE-C4DC-C511-0349862D658A%7d&path=open" style="text-decoration:none" target="_blank">(NASA FINESST)</a> program award number 80NSSC22K1756.
 
 In this study, we present a suite of galaxy collision simulations utilizing the gravitohydrodynamics code Enzo, with initial conditions tailored to match the observed physical properties, kinematics, and alignment of the UDGs in the NGC1052 group. 
 Our simulations, supplemented with orbit integration of the galaxies, demonstrate that appropriate initial orbital and structural parameters of the colliding satellite progenitor galaxies can lead to the formation of a series of multiple DMDGs, including two massive DMDGs with $$M_{\star} > 10^{8} \, {\rm M}_{\odot}$$ that replicate the observed motions of DF2 and DF4. 
