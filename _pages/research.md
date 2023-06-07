@@ -38,6 +38,6 @@ As JWST pushes the observational frontier, to observe galaxies and detect absorp
 Towards this end, we have analyzed the results of the latest state-of-the-art radiation-hydro simulation of fully-coupled galaxy formation and reionization by The Cosmic Dawn (“CoDa”) Project, <a href="https://coda-simulation.github.io/" style="text-decoration:none" target="_blank">CoDa III</a>, including its self-consistent tracking of the inhomogeneous rise of metallicity thru the end of the EoR and beyond, down to z = 4.6. 
 CoDa III is the first trillion-element radiation-hydro simulation of the EoR, with enough dynamic range to resolve the formation of every star-forming galaxy believed to be responsible for reionization (and, hence, metallicity) in its simulation volume of 94.4 cMpc across. We will present these CoDa III results for the inhomogeneous evolution of metallicity in the universe and its observable consequences.
 
-
+* **Lee, J.**, Shapiro, P. R. et al. in prep.  <a href="https://joohyun-lee.github.io/research/metal/" style="text-decoration:none" target="_blank">[Further info and movies on this page]</a>
 
 
