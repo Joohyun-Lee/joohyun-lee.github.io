@@ -12,4 +12,4 @@ A recent study by van Dokkum et al. (2022a) examined the distinctively aligned u
 
 Movie of the Fiducial run
 
-{% include video id="1H_2xW5T8uFNWoy10Rb_X7Sp68HL7KiUJ" provider="google-drive" %}
+{% include video id="1Z_SOYVhZNydy9Je7QPg73US1MN0i4kFv" provider="google-drive" %}
