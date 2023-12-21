@@ -5,16 +5,25 @@ layout: single
 classes: wide
 ---
 
-## Formation of Dark Matter Deficient Galaxies during High-velocity Galaxy Collisions
+## Formation of Dark Matter-Deficient Galaxies (DMDGs) during High-velocity Galaxy Collisions: *Mini-bullet* (Bullet Dwarf) Collision
 
 Along with their luminous member globular clusters (GCs), the recent discovery of diffuse dwarf galaxies that are deficient in dark matter — such as NGC1052-DF2 and NGC1052-DF4 — appears to challenge the current paradigm of structure formation in our Universe. 
 
-In the first paper (Shin et al. 2020), we describe the numerical experiments using the adaptive mesh refinement code (<span style="font-variant:small-caps;">Enzo</span>) and particle-based gravito-hydrodynamics code (<span style="font-variant:small-caps;">Gadget-2</span>) to determine if the so-called dark matter deficient galaxies (DMDGs) could be produced when two gas-rich, dwarf-sized galaxies collide with a high relative velocity of $$\gtrsim 300$$ km/s.
-
-In the second paper (Lee et al. 2021), using idealized high-resolution simulations, we demonstrate simultaneous formation of DMDGs and their star clusters (SCs) in high-velocity galaxy collisions that separate dark matter from the warm disk gas which subsequently is compressed by shock and tidal interaction to form stars efficiently. 
-In particular, we show that the galaxy collision spawns multiple massive SCs ($$\gtrsim 10^{6} \, {\rm M}_{\odot}$$) within 150 Myr after the collision. At the end of our $$\sim 800$$ Myr fiducial run, the resulting DMDG of $$M_{\star} \simeq 3.5 \times 10^{8} \, {\rm M}_{\odot}$$ hosts 10 luminous ($$M_{V} \lesssim -8.5 \, {\rm {mag}}$$), gravitational bound SCs with a line-of-sight velocity dispersion 11.2 km/s. Our study suggests that DMDGs and their luminous member SCs could form simultaneously in high-velocity galaxy collisions while being in line with the key observed properties of NGC1052-DF2 and NGC1052-DF4.
+In the first paper (Shin et al. 2020), we describe the numerical experiments using the adaptive mesh refinement code (<span style="font-variant:small-caps;">Enzo</span>) and particle-based gravito-hydrodynamics code (<span style="font-variant:small-caps;">Gadget-2</span>) to determine if the so-called dark matter-deficient galaxies (DMDGs) could be produced when two gas-rich, dwarf-sized galaxies collide with a high relative velocity of $$\gtrsim 300$$ km/s.
 Also, using a large simulated universe <span style="font-variant:small-caps;">IllustrisTNG</span>, we discover a number of high-velocity galaxy collision events in which DMDGs are expected to form. 
-However, we did not find evidence that these types of collisions actually produced DMDGs in the <span style="font-variant:small-caps;">IllustrisTNG100-1</span> run. We argue that the resolution of the numerical experiment is critical to realize the “collision-induced” DMDG formation scenario. Our results demonstrate one of many routes in which galaxies could form with unconventional dark matter fractions.
+However, we did not find evidence that these types of collisions actually produced DMDGs in the <span style="font-variant:small-caps;">IllustrisTNG100-1</span> run. 
+We argue that the resolution of the numerical experiment is critical to realize the “collision-induced” DMDG formation scenario. Our results demonstrate one of many routes in which galaxies could form with unconventional dark matter fractions.
+
+In the second paper (Lee et al. 2021), using idealized high-resolution simulations, we demonstrate the simultaneous formation of DMDGs and their star clusters (SCs) in high-velocity galaxy collisions that separate dark matter from the warm disk gas which subsequently is compressed by shock and tidal interaction to form stars efficiently. 
+In particular, we show that the galaxy collision spawns multiple massive SCs ($$\gtrsim 10^{6} \, {\rm M}_{\odot}$$) within 150 Myr after the collision. 
+At the end of our $$\sim 800$$ Myr fiducial run, the resulting DMDG of $$M_{\star} \simeq 3.5 \times 10^{8} \, {\rm M}_{\odot}$$ hosts 10 luminous ($$M_{V} \lesssim -8.5 \, {\rm {mag}}$$), gravitational bound SCs with a line-of-sight velocity dispersion 11.2 km/s. 
+Our study suggests that DMDGs and their luminous member SCs could form simultaneously in high-velocity galaxy collisions while being in line with the key observed properties of NGC1052-DF2 and NGC1052-DF4.
+
+In the third paper (Lee et al. 2023), inspired by recent observations of an aligned trail of $$7−11$$ UDGs near NGC1052, including DMDGs DF2 and DF4, suggesting a common formation site and time, $$\sim 8.9 \pm 1.5$$ Gyr ago, we start from initial conditions for colliding satellites tailored to match the observed UDGs in the NGC1052 group and simulate the *Mini-bullet* satellite-satellite galaxy collision with the hydro/N-body code <span style="font-variant:small-caps;">Enzo</span>, supplemented by galaxy orbit integrations. 
+We demonstrate the formation of a trail of $$\sim 10$$ DMDGs, including two massive ones that replicate the observed motions of DF2 and DF4.
+We present the resultant properties of the produced aligned DMDGs, the alignment and deviation from that, the linear relation between positions and velocities, their stellar properties, and their sizes.
+We also show that a $$\Lambda{\rm CDM}$$ cosmological simulation (IllustrisTNG100-1) in a $$(100\;{\rm cMpc})$^{3}$ box finds our required initial conditions $$\sim 10$$ times at $$z<3$$. 
+Our results indicate current observations of NGC1052 group galaxies are consistent with the *Mini-bullet* scenario.
 <br/>
 
 
