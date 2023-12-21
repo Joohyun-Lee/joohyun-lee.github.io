@@ -22,7 +22,7 @@ Our study suggests that DMDGs and their luminous member SCs could form simultane
 In the third paper (Lee et al. 2023), inspired by recent observations of an aligned trail of $$7−11$$ UDGs near NGC1052, including DMDGs DF2 and DF4, suggesting a common formation site and time, $$\sim 8.9 \pm 1.5$$ Gyr ago, we start from initial conditions for colliding satellites tailored to match the observed UDGs in the NGC1052 group and simulate the *Mini-bullet* satellite-satellite galaxy collision with the hydro/N-body code <span style="font-variant:small-caps;">Enzo</span>, supplemented by galaxy orbit integrations. 
 We demonstrate the formation of a trail of $$\sim 10$$ DMDGs, including two massive ones that replicate the observed motions of DF2 and DF4.
 We present the resultant properties of the produced aligned DMDGs, the alignment and deviation from that, the linear relation between positions and velocities, their stellar properties, and their sizes.
-We also show that a $$\Lambda{\rm CDM}$$ cosmological simulation (IllustrisTNG100-1) in a $$(100\;{\rm cMpc})$$^{3}$ box finds our required initial conditions $$\sim 10$$ times at $$z<3$$. 
+We also show that a $$\Lambda{\rm CDM}$$ cosmological simulation (IllustrisTNG100-1) in a $$(100\;{\rm cMpc})^{3}$$ box finds our required initial conditions $$\sim 10$$ times at $$z<3$$. 
 Our results indicate current observations of NGC1052 group galaxies are consistent with the *Mini-bullet* scenario.
 <br/>
 
