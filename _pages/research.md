@@ -34,7 +34,7 @@ Our results indicate current observations of NGC1052 group galaxies are consiste
 Collisions In 1.25 pc Resolution Simulations”*, <br/>
 <a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...917L..15L/abstract" style="text-decoration:none" target="_blank">[ApJL 917 (2021) L15]</a>, <a href="https://arxiv.org/abs/2108.01102" style="text-decoration:none" target="_blank">[astro-ph:2108.01102]</a>, <a href="https://joohyun-lee.github.io/research/DMDG2/" style="text-decoration:none" target="_blank">[Further info and movies on this page]</a>
 
-* **Lee, J.**, Shin, E. -J., & Kim, J. -H., Shapiro, P. R., Chung, E., 2023, submitted to ApJ.  <br/>
+* **Lee, J.**, Shin, E. -J., & Kim, J. -H., Shapiro, P. R., Chung, E., 2023, Accepted for publication in ApJ.  <br/>
 <a href="https://arxiv.org/abs/2312.11350" style="text-decoration:none" target="_blank">[astro-ph:2312.11350]</a>, <a href="https://joohyun-lee.github.io/research/DMDG3/" style="text-decoration:none" target="_blank">[Further info and movies on this page]</a>
 
 
