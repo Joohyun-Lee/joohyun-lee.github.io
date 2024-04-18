@@ -5,7 +5,7 @@ layout: single
 classes: wide
 ---
 
-## Formation of Dark Matter-Deficient Galaxies (DMDGs) during High-velocity Galaxy Collisions: *Mini-bullet* (Bullet Dwarf) Collision
+## Formation of Dark Matter-Deficient Galaxies (DMDGs) during High-velocity Galaxy Collisions: *Mini-Bullet* (Bullet Dwarf) Collision
 
 Along with their luminous member globular clusters (GCs), the recent discovery of diffuse dwarf galaxies that are deficient in dark matter — such as NGC1052-DF2 and NGC1052-DF4 — appears to challenge the current paradigm of structure formation in our Universe. 
 
@@ -19,11 +19,11 @@ In particular, we show that the galaxy collision spawns multiple massive SCs ($$
 At the end of our $$\sim 800$$ Myr fiducial run, the resulting DMDG of $$M_{\star} \simeq 3.5 \times 10^{8} \, {\rm M}_{\odot}$$ hosts 10 luminous ($$M_{V} \lesssim -8.5 \, {\rm {mag}}$$), gravitational bound SCs with a line-of-sight velocity dispersion 11.2 km/s. 
 Our study suggests that DMDGs and their luminous member SCs could form simultaneously in high-velocity galaxy collisions while being in line with the key observed properties of NGC1052-DF2 and NGC1052-DF4.
 
-In the third paper (Lee et al. 2023), inspired by recent observations of an aligned trail of $$7−11$$ UDGs near NGC1052, including DMDGs DF2 and DF4, suggesting a common formation site and time, $$\sim 8.9 \pm 1.5$$ Gyr ago, we start from initial conditions for colliding satellites tailored to match the observed UDGs in the NGC1052 group and simulate the *Mini-bullet* satellite-satellite galaxy collision with the hydro/N-body code <span style="font-variant:small-caps;">Enzo</span>, supplemented by galaxy orbit integrations. 
+In the third paper (Lee et al. 2023), inspired by recent observations of an aligned trail of $$7−11$$ UDGs near NGC1052, including DMDGs DF2 and DF4, suggesting a common formation site and time, $$\sim 8.9 \pm 1.5$$ Gyr ago, we start from initial conditions for colliding satellites tailored to match the observed UDGs in the NGC1052 group and simulate the *Mini-Bullet* satellite-satellite galaxy collision with the hydro/N-body code <span style="font-variant:small-caps;">Enzo</span>, supplemented by galaxy orbit integrations. 
 We demonstrate the formation of a trail of $$\sim 10$$ DMDGs, including two massive ones that replicate the observed motions of DF2 and DF4.
 We present the resultant properties of the produced aligned DMDGs, the alignment and deviation from that, the linear relation between positions and velocities, their stellar properties, and their sizes.
 We also show that a $$\Lambda{\rm CDM}$$ cosmological simulation (IllustrisTNG100-1) in a $$(100\;{\rm cMpc})^{3}$$ box finds our required initial conditions $$\sim 10$$ times at $$z<3$$. 
-Our results indicate current observations of NGC1052 group galaxies are consistent with the *Mini-bullet* scenario.
+Our results indicate current observations of NGC1052 group galaxies are consistent with the *Mini-Bullet* scenario.
 <br/>
 
 
@@ -34,7 +34,7 @@ Our results indicate current observations of NGC1052 group galaxies are consiste
 Collisions In 1.25 pc Resolution Simulations”*, <br/>
 <a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...917L..15L/abstract" style="text-decoration:none" target="_blank">[ApJL 917 (2021) L15]</a>, <a href="https://arxiv.org/abs/2108.01102" style="text-decoration:none" target="_blank">[astro-ph:2108.01102]</a>, <a href="https://joohyun-lee.github.io/research/DMDG2/" style="text-decoration:none" target="_blank">[Further info and movies on this page]</a>
 
-* **Lee, J.**, Shin, E. -J., & Kim, J. -H., Shapiro, P. R., Chung, E., 2023, Accepted for publication in ApJ.  <br/>
+* **Lee, J.**, Shin, E. -J., & Kim, J. -H., Shapiro, P. R., Chung, E., *“Multiple Beads-on-a-string: Dark Matter-Deficient Galaxy Formation in a Mini-bullet Satellite-satellite Galaxy Collision”*, Accepted for publication in ApJ.  <br/>
 <a href="https://arxiv.org/abs/2312.11350" style="text-decoration:none" target="_blank">[astro-ph:2312.11350]</a>, <a href="https://joohyun-lee.github.io/research/DMDG3/" style="text-decoration:none" target="_blank">[Further info and movies on this page]</a>
 
 
