@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Joohyun Lee"
   avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate student in Department of Astronomy, University of Texas at Austin"
+  bio              : "Graduate student in Department of Astronomy, The University of Texas at Austin"
   location         : "Austin, Texas, US"
   email            :
   links:
