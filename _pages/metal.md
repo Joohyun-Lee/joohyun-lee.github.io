@@ -5,6 +5,11 @@ layout: single
 classes: wide
 ---
 
-Movie of the Cosmic-Dawn (CoDa) III Simulation
+Movie of the Cosmic-Dawn (CoDa) III simulation
 
 {% include video id="zeqV3WL06T8" provider="youtube" %}
+
+
+Movie of the reionization and metal enrichment process in the CoDa III simulation
+
+{% include video id="14mzOKoD9r4LherRG7bE2gJmXoYMSOFhL" provider="google-drive" %}
