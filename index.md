@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
   caption: "Reionization and Metal Enrichment in the Cosmic Dawn (CoDa) III Simulation"
   actions:
-    - label: "More Info on<\br>CoDa III Webpage"
+    - label: "More Info on<br>CoDa III Webpage"
       url: "https://unsplash.com](https://coda-simulation.github.io/"
 ---
 
