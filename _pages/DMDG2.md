@@ -18,7 +18,7 @@ We present movies of galaxy collision simulations with different configurations 
 
 Movie of Fiducial run
 
-{% include video id="16KtaogIBwGEdbGMDw96ZuusSFxssjvSy" provider="google-drive" %}
+{% include video id="1lgSF-5DgyvNmV3gA-djDVXwYMB2y31gO" provider="google-drive" %}
 
 
 
