@@ -2,6 +2,12 @@
 title: "Research Website of Joohyun Lee"
 layout: single
 author_profile: true
+header:
+  image: /assets/images/front.gif
+  caption: "Reionization and Metal Enrichment in the Cosmic Dawn (CoDa) III Simulation"
+  actions:
+    - label: "CoDa III Webpage"
+      url: "https://unsplash.com](https://coda-simulation.github.io/"
 ---
 
 <br/>
