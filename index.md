@@ -4,10 +4,10 @@ layout: single
 author_profile: true
 header:
   overlay_image: /images/front.gif
-  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
   caption: "Reionization and Metal Enrichment in the Cosmic Dawn (CoDa) III Simulation"
   actions:
-    - label: "CoDa III Webpage"
+    - label: "More Info on<\br>CoDa III Webpage"
       url: "https://unsplash.com](https://coda-simulation.github.io/"
 ---
 
