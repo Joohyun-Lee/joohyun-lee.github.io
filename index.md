@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
   actions:
     - label: "More Info on<br>CoDa III Webpage"
-      url: "https://unsplash.com](https://coda-simulation.github.io/"
+      URL: "[https://unsplash.com](https://coda-simulation.github.io/)"
 ---
 
 <br/>
