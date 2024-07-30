@@ -14,7 +14,7 @@ header:
 <br/>
 Welcome to my research website!
 
-Please enjoy the contents!
+Please enjoy the content!
 
 <br>
 <p style="text-align:center;"><img src="https://joohyun-lee.github.io/images/front.jpg" alt="profile image" width="60%" height="auto">
