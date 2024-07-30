@@ -14,5 +14,7 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
+  - title: "Other"
+    url: /other/
   - title: "Contact"
     url: /contact/
