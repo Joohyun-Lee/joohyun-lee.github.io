@@ -5,6 +5,10 @@ layout: single
 classes: wide
 ---
 
+<p style="text-align:center;"><img src="https://joohyun-lee.github.io/images/CoDa_III_EoR_FirstBillionYears_credit.png" alt="image" width="100%" height="auto">
+
+
+
 Movie of the Cosmic-Dawn (CoDa) III simulation
 
 {% include video id="zeqV3WL06T8" provider="youtube" %}
