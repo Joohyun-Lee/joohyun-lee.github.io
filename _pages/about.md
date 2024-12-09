@@ -16,7 +16,7 @@ My publication list in
 and <a href="https://inspirehep.net/authors/1920810" style="text-decoration:none" target="_blank">[Inspire-HEP].
 
 ### Research
-My research interest is mainly on answering theoretical questions about cosmology and galaxy formation using numerical and computational methods. I am open to finding answers to various questions in the field of cosmological structure formation.
+My research interest is mainly in answering theoretical questions about cosmology and galaxy formation using numerical and computational methods. I am open to finding answers to various questions in the field of cosmological structure formation.
 
 ### Personal Life
 I like soccer (fan of Man Utd), cycling, camping, photos, SF movies & novels, and any other fields of fascinating science.
